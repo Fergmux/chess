@@ -1,0 +1,27 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "A chess game",
+  "main": "chess.js",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "2.2.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fergmux/chess.git"
+  },
+  "author": "Fergus Mullineux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fergmux/chess/issues"
+  },
+  "homepage": "https://github.com/Fergmux/chess#readme"
+}
